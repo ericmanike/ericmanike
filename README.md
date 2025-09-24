@@ -1,7 +1,7 @@
 ## Hi there! I am Eric Manike Haare🔥
 - 🎓 IT Student @ KNUST
 - 💻 Passionate about web development, app & software engineering
-- 🌱 Currently learning React for frontend development 
+- 🌱 React JS  frontend development 
 ***
 
 <!--
