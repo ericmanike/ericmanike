@@ -1,7 +1,8 @@
 ## Hi there! I am Eric Manike Haare🔥
 - 🎓 IT Student @ KNUST
 - 💻 Passionate about web development, app & software engineering
-- 🌱 React JS,  Next Js  Javascript fullstack development 
+- 🌱Javascript, Python & Java fullstack development
+- Security analyst
 ***
 
 <!--
